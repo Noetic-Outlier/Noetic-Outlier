@@ -1,16 +1,32 @@
-## Hi there 👋
+# ⚡ Noetic Outlier
 
-<!--
-**Noetic-Outlier/Noetic-Outlier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Interested in AI systems that **don’t just generate — they reason, verify, and justify.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ What I Work On
+
+* 🧩 Retrieval-Augmented Generation (RAG)
+* 🔗 Evidence Graphs & Knowledge Structuring
+* 🧠 Multi-hop Reasoning Pipelines
+* 🤖 LLM System Design (LangChain, FAISS)
+* 🌐 AI Simulation & Digital Twins (next frontier)
+
+---
+
+## 🧩 Current Direction
+
+* 📡 AI Digital Twin (Free-Space Optical Communication)
+* 🧠 Self-improving reasoning systems
+* 🔍 Hallucination-resistant AI
+
+---
+
+## 📌 Philosophy
+
+> If an AI system cannot explain *why* it produced an answer,
+> it should not be trusted.
+
+---
+
+
